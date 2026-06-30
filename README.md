@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Divinsha%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20Intelligence%20for%20the%20Unknown&descAlignY=55&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+AI+%26+Data+Science+%E2%80%A2+2nd+Year+%E2%80%A2+CGPA+8.15;Designing+an+AI-Based+Space+Anomaly+Detection+System;Machine+Learning+%2B+Deep+Learning+%2B+Real-World+Ops;Project+Engineer+%40+Amazon;Curious+about+Space%2C+Cosmology+%26+the+Unseen+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+AI+%26+Data+Science+%E2%80%A2+3rd+Year+%E2%80%A2+CGPA+8.15;Designing+an+AI-Based+Space+Anomaly+Detection+System;Machine+Learning+%2B+Deep+Learning+%2B+Real-World+Ops;Project+Engineer+%40+Amazon;Curious+about+Space%2C+Cosmology+%26+the+Unseen+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaborations-2c5364?style=for-the-badge"/>
@@ -115,7 +115,7 @@ Amazon · Project Engineer                                   Dec 2025 – Presen
 
 | Degree | Institution | Year | CGPA |
 |---|---|---|---|
-| **B.Tech – Artificial Intelligence & Data Science** | SKP Engineering College | 2nd Year | **8.15 / 10** |
+| **B.Tech – Artificial Intelligence & Data Science** | SKP Engineering College | 3rd Year | **8.15 / 10** |
 
 </div>
 
